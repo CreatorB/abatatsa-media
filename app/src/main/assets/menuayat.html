@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Abatatsa Media 2023">
+    <title>Panduan Speaker Al-Qur'an</title>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/menuayat.css" rel="stylesheet">
+  </head>
+  <body class="pt-5 mt-2">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="img/chevron-left.svg" alt="Back" id="back" width="30" height="30" class="d-inline-block align-text-top">
+      Kode Per Ayat
+    </a>
+  </div>
+</nav>
+<!-- toast -->
+ <div class="modal" tabindex="-1" id="alert">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Ada kesalahan !</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p id="isi-error">Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Tutup</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- toast -->
+<div class="bs-callout bs-callout-info mx-5">
+  Untuk mendapatkan kode ayat, isilah form berikut, kemudian klik tombol "Cek Kode !"
+</div>
+<div class="mt-8"></div>
+<!-- form -->
+<main class="w-75 m-auto">
+
+    
+    
+
+    <div class="form-floating">
+      <select class="form-select form-select-lg mb-3" aria-label="Large select example" id="pilihsurat">
+        <option selected>Pilih surat</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+      </select>
+    </div>
+    <div class="form-floating mt-2">
+      <input class="form-control" type="number" min="0" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" id="ayat" placeholder="Nomor Ayat">
+      <label for="ayat">Nomor ayat</label>
+    </div>
+    <button id="cek" class="btn btn-danger btn-lg w-100 py-2 mt-2">Cek Kode !</button>
+    
+
+</main>
+<!-- end form -->
+<div class="bs-callout bs-callout-danger mx-5">
+  <p id="selectedSurat">Surat : ...</p>
+  <p class="" id="noAyat">Ayat ke : ...</p>
+  <hr>
+  <h6>Kode Angka : </h6>
+  <h1 id="kode" class="text-danger">0000</h1>
+  Qori' : Khalifah at-Tunaiji
+</div>
+
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/menuayat.js"></script>
+  </body>
+</html>

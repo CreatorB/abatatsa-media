@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="13.500001"
+   inkscape:export-xdpi="13.500001"
+   inkscape:export-filename="/home/naad/Documents/apk panduan/baru/img/petik.png"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg126"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="petik.svg">
+  <defs
+     id="defs120">
+    <rect
+       x="21.058308"
+       y="24.079476"
+       width="103.80667"
+       height="95.095905"
+       id="rect868" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-97.463817 : -336.82556 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="38.002847 : -336.82556 : 1"
+       inkscape:persp3d-origin="-29.730487 : -359.40334 : 1"
+       id="perspective128" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="152.77621"
+     inkscape:cy="293.4857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#28170b;fill-opacity:1;stroke:#28170b;stroke-width:1.7;stroke-opacity:1"
+       id="path872"
+       cx="67.73333"
+       cy="67.73333"
+       r="66.044441" />
+    <text
+       xml:space="preserve"
+       id="text866"
+       style="font-style:normal;font-weight:normal;font-size:0.00270864px;line-height:0.55;font-family:sans-serif;white-space:pre;shape-inside:url(#rect868);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(-114057.94,0,0,-98878.946,2402136,2381052.5)"><tspan
+         sodipodi:role="line"
+         x="21.058594"
+         y="24.081527"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Verve Alternate';-inkscape-font-specification:'Verve Alternate';fill:#ffffff"> &quot; </tspan></tspan></text>
+  </g>
+</svg>
