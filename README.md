@@ -11,11 +11,11 @@ The main of app at [Abata Web](http://abata.free.nf) developed by Abu Fawwaz haf
 You can use it easily by click the download button below and install it apk on your android smartphone.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://raw.githubusercontent.com/CreatorB/abatatsa-media/demo/app.apk)
+[![Download apk](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://raw.githubusercontent.com/CreatorB/abatatsa-media/main/demo/app.apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ## Buy Hardware
 
 Contact : Abu Fawwaz, via whatsapp [085258832552](https://wa.me/6285258832552)
 
-![speaker](https://raw.githubusercontent.com/CreatorB/abatatsa-media/demo/photo.png)
+![speaker](https://raw.githubusercontent.com/CreatorB/abatatsa-media/main/demo/photo.png)
