@@ -867,6 +867,11 @@ $('#cek').on('click', function(){
     myModal.show();
     return; 
   }
+  else if (Number(payat) < 0) { 
+    $('#isi-error').text("Nomor ayat tidak boleh negatif...");
+    myModal.show();
+    return; 
+  }
   else
   {
     //let kode = 0;
