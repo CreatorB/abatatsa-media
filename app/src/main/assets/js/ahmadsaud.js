@@ -237,23 +237,7 @@ $(document).ready( function () {
     fixedHeader: true,
     pageLength : 10,
     pagingType: 'numbers',
-    "language": {
-        "emptyTable": "Tidak ada data yang tersedia pada tabel ini",
-        "info": "Menampilkan _START_ sampai _END_ dari _TOTAL_ entri",
-        "infoEmpty": "Menampilkan 0 sampai 0 dari 0 entri",
-        "infoFiltered": "(disaring dari _MAX_ entri keseluruhan)",
-        "lengthMenu": "Tampilkan _MENU_ entri",
-        "loadingRecords": "Sedang memuat...",
-        "processing": "Sedang memproses...",
-        "search": "Cari Surat:",
-        "zeroRecords": "Tidak ditemukan data yang sesuai",
-        "paginate": {
-            "first": "Pertama",
-            "last": "Terakhir",
-            "next": ">>",
-            "previous": "<<"
-        }
-      }
+     pagingType: 'numbers'
   });
 
 } );

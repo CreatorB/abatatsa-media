@@ -25,6 +25,12 @@ $('#cek').on('click', function(){
     return; 
   }
 
+  else if (Number(halaman) < 0) { 
+    $('#isi-error').text("Nomor halaman tidak boleh negatif...");
+    myModal.show();
+    return; 
+  }
+
   else if (Number(halaman) > 604) { 
     $('#isi-error').text("nomor halaman paling tinggi adalah 604 !");
     myModal.show();
