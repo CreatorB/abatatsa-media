@@ -1,6 +1,6 @@
 # Abatatsa Media - Panduan Speaker Al-Qur'an
 
-Abatatsa Media is the ultimate guide app for experiencing the Murottal recitation of the Quran through speakers. With this app, explore the great of Quranic recitations through optimal speaker setups.
+"Abatatsa Media" is the ultimate guide app for experiencing the Murottal recitation of the Quran through speakers. With this app, explore the great of Quranic recitations through optimal speaker setups.
 
 ## Tech Stack
 
