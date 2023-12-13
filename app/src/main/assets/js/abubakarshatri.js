@@ -476,8 +476,8 @@ $(document).ready( function () {
     info:false,
     fixedHeader: true,
     pageLength : 10,
-    pagingType: 'numbers',
-    pagingType: 'numbers',
+     
+     
      pagingType: 'numbers'
   });
 
